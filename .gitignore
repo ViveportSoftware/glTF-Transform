@@ -14,7 +14,7 @@ node_modules
 !**/out/.gitkeep
 
 # build artifacts
-packages/**/dist/*
+# packages/**/dist/*
 packages/**/.rts2*
 
 # documentation
